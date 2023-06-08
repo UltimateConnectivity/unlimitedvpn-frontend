@@ -1,36 +1,19 @@
 name: Unlimited VPN
 description: The Fast and Secure VPN with Unlimited Bandwidth
-full_description: 'Unlimited VPN: Access Region Blocked Content and Features
-
-Break free from online restrictions with Unlimited VPN, the ultimate solution for accessing all restricted sites and video content. Designed specifically for countries with internet restrictions, this powerful Android app ensures you can enjoy a truly open and unrestricted online experience, no matter where you are.
-
-Key Features:
-
-Lightning-Fast and Secure Connection: Unlimited VPN offers blazing-fast connection speeds, allowing you to stream, browse, and download content without any buffering or lag. Our advanced encryption technology guarantees your online activities remain completely secure and private.
-
-Access Restricted Content: Say goodbye to blocked websites and inaccessible video content. With Unlimited VPN, you can effortlessly bypass any geographical restrictions and access your favorite websites, social media platforms, and streaming services, even if they are blocked in your current location.
-
-Global Server Network: Our vast network of servers spans multiple countries, strategically located to provide you with the fastest and most reliable connections. Connect to servers in India, Pakistan, Bangladesh, or any other location you choose, and enjoy seamless access to local shows, apps, and streaming services.
-
-One-Tap Connection: Unlimited VPN ensures simplicity and convenience with its one-tap connection feature. Connect to the VPN with just a single tap, and start enjoying unrestricted access to the internet in an instant.
-
-Data Protection: Protect your personal information from hackers and prying eyes. Unlimited VPN shields your data with military-grade encryption, ensuring your online activities, passwords, and sensitive information remain confidential and secure.
-
-User-Friendly Interface: Our app is designed with a clean and intuitive interface, making it easy for anyone to navigate and use. No technical expertise is required; simply download, install, and connect to unlock the true potential of the internet.
-
-Unlimited Bandwidth: Experience the internet without restrictions. Unlimited VPN offers unlimited bandwidth, allowing you to stream, download, and browse to your heart's content, without worrying about data limits or additional charges.
-
-24/7 Customer Support: Our dedicated support team is available round the clock to assist you with any queries or technical issues. We're here to ensure your VPN experience is smooth and hassle-free.
-
-Take control of your online freedom with Unlimited VPN. Download now and access all restricted content effortlessly. Join thousands of satisfied users who trust us to provide a secure and unrestricted browsing experience.
-
-Unlock the internet. Download Unlimited VPN today!'
+full_description: 'A more complete description of the mobile app<br>
+<br>With a lot of features:
+<br>- Feature 1
+<br>- Feature 2
+<br>- Feature 3'
 android: https://play.google.com/store/apps/details?id=com.secureconnections.unlimitedvpn
+iOS: https://telegra.ph/Replace-this-link-07-23
+web: https://telegra.ph/Replace-this-link-07-23
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
+producthunt: https://telegra.ph/Replace-this-link-07-23
 companies:
   - url: https://telegra.ph/Replace-this-link-07-23
     image: androidpolice.png
