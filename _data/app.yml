@@ -27,6 +27,8 @@ full_description: |
 
     Unlock the internet. Download Unlimited VPN today!'
 android: https://play.google.com/store/apps/details?id=com.secureconnections.unlimitedvpn
+iOS: false
+web: false
 screenshots:
   - 1.png
   - 2.png
