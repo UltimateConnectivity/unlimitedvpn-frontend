@@ -1,11 +1,11 @@
 <nav class="navigation" role="navigation">
-  {% assign default_paths = site.pages | map: "path" %}
+  {% assign default_paths = site.posts | map: "path" %}
   {% assign page_paths = site.navigation_pages | default: default_paths %}
   <a class="navigation__branding" href="{{ "/" | relative_url }}">
     <span class="navigation__logo"><img src="{{ "/assets/images/icon.png" | relative_url }}" class="navigation__logo-img" alt=""></span>
-    <span class="navigation__title">{{ site.title | escape }}</span>
+    <!-- <span class="navigation__title">{{ site.title | escape }}</span> -->
   </a>
-  <div class="navigation__links">
+  <div class="navigation__links" style="display: inline-block;">
     {% if page_paths %}
       {% for path in page_paths %}
         {% assign my_page = site.pages | where: "path", path | first %}
