@@ -2,6 +2,7 @@ app:
   screenshots: Screenshots
   description: Description
   featured: Featured in
+  posts: Blog Posts
 
 footer:
   copyright: Made with ❤️ in India 🇮🇳 by Secure Connections
