@@ -1,7 +1,7 @@
 name: Unlimited VPN
 description: The Fast and Secure VPN with Unlimited Bandwidth
 full_description: |
-    'Unlimited VPN: Access Region Blocked Content and Features
+    Unlimited VPN: Access Region Blocked Content and Features
 
     Break free from online restrictions with Unlimited VPN, the ultimate solution for accessing all restricted sites and video content. Designed specifically for countries with internet restrictions, this powerful Android app ensures you can enjoy a truly open and unrestricted online experience, no matter where you are.
 
@@ -25,7 +25,7 @@ full_description: |
 
     9. Take control of your online freedom with Unlimited VPN. Download now and access all restricted content effortlessly. Join thousands of satisfied users who trust us to provide a secure and unrestricted browsing experience.
 
-    Unlock the internet. Download Unlimited VPN today!'
+    Unlock the internet. Download Unlimited VPN today!
 android: https://play.google.com/store/apps/details?id=com.secureconnections.unlimitedvpn
 iOS: false
 web: false
