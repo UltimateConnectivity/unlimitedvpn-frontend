@@ -1,16 +1,20 @@
 ---
 layout: default
-title: Blogs
 ---
-<div class="container">
-    <h1>Latest Posts</h1>
-    
-    <ol>
-      {% for post in site.posts %}
-        <li>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          {{ post.excerpt }}
-        </li>
-      {% endfor %}
-    </ol>
+<div class="blog">
+  {% for post in site.posts %}
+    <article class="blog__post">
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <div class="blog__date">
+        <p>{{ post.date | date: date_format }}</p>
+        <p>by {{ post.author }}</p>
+      </div>
+      <div class="blog__content">
+        <a class="blog__link" href="{{ post.url | relative_url }}">
+          <h2 class="blog__title">{{ post.title | escape }}</h2>
+          <p class="blog__excerpt">{{ post.excerpt }}</p>
+        </a>
+      </div>
+    </article>
+  {% endfor %}
 </div>
