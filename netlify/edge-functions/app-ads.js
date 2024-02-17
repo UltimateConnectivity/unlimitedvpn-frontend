@@ -23,9 +23,9 @@ export default () => {
         'inmobi.com, 96b0c131516c4ce58d293ec158228a2f, DIRECT, 83e75a7ae333ca9d']
 
     let final = `facebook.com, 1304663056894877, RESELLER, c3e20eee3f780d68
-    
-    `
-    final += lines.filter(l => Math.random() > 0.3).join('\n')
+
+`
+    final += lines.filter(l => Math.random() < 0.70).join('\n')
 
     return new Response(final);
 }
