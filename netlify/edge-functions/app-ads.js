@@ -29,4 +29,4 @@ export default () => {
 
     return new Response(final);
 }
-export const config = { path: "/app-ads.txt" };
+// export const config = { path: "/app-ads.txt" };
